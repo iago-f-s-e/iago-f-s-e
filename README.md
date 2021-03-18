@@ -2,7 +2,7 @@ Olá, pessoal!! 👋
 
 Como já diz ali na minha bio, sou aluno da Universidade Federal de Sergipe - UFS, e estou cursando Ciência da Computação. 
 Me identifico mais com o Back-End e pretendo me especializar nele, mas também almejo estudar outras stacks. 
-Sou entusiasta da astronomia e amante da tecnologia, musica e dos animais, inclusive, fui voluntario na associação protetora de animais da minha cidade 😁
+Sou entusiasta da astronomia e amante da tecnologia, musica e dos animais, inclusive, fui voluntário na associação protetora de animais da minha cidade. 😁
 
 ------
 
