@@ -27,7 +27,6 @@ Sou entusiasta da astronomia e amante da tecnologia, musica e dos animais, inclu
 ------
 
 ### My stats 🎯
-<a href="https://will-site-76600.firebaseapp.com/">
   <img 
     height="168px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=iago-f-s-e&layout=compact&theme=algolia" 
@@ -36,5 +35,4 @@ Sou entusiasta da astronomia e amante da tecnologia, musica e dos animais, inclu
       height="168px" 
       src="https://github-readme-stats.vercel.app/api?username=iago-f-s-e&layout=compact&show_icons=true&theme=algolia&hide=stars" 
     />
-</a>
 <br>
