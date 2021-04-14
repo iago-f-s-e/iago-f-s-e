@@ -22,7 +22,7 @@ Sou entusiasta da astronomia e amante da tecnologia, musica e dos animais, inclu
 📫 Contatos: iago.fagundes@outlook.com, (75) 9 9950-3472, [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-f-s-e/)](https://www.linkedin.com/in/iago-f-s-e/)
 
 
-📃 [Currículo](https://drive.google.com/file/d/1uVz2k7-0xtfWCworm98qEdKrCPxuFW0n/view?usp=sharing)
+📃 [Currículo](https://drive.google.com/file/d/1G0sNu-dA1DNvj6N1k-73T_hNqOGCzhdm/view?usp=sharing)
 
 ------
 
