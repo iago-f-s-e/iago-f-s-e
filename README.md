@@ -7,16 +7,16 @@ Sou entusiasta da astronomia e amante da tecnologia, musica e dos animais, inclu
 ------
 
 
-💻 Conhecimentos: JavaScript, NodeJs
+💻 Conhecimentos: JavaScript, TypeScript, NodeJs,ReactJs, React-Native,Java, PHP, Python, HTML5, CSS3
 
 
-🛠️ Ferramentas: Git, Github, VS code, IntelliJ
+🛠️ Ferramentas: Git, Github, VS code, IntelliJ,Redux,TypeORM
 
 
 📝 Estudando atualmente: ReactJs, React-native
 
 
-⭐ Soft Skills: Java, PHP, Python, HTML5, CSS3
+⭐ Soft Skills: 
 
 
 📫 Contatos: iago.fagundes@outlook.com, (75) 9 9950-3472, [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iago-f-s-e/)](https://www.linkedin.com/in/iago-f-s-e/)
