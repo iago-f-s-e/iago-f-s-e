@@ -10,7 +10,7 @@ Sou entusiasta da astronomia e amante da tecnologia, musica e dos animais, inclu
 💻 Conhecimentos: JavaScript, TypeScript, NodeJs,ReactJs, React-Native,Java, PHP, Python, HTML5, CSS3
 
 
-🛠️ Ferramentas: Git, Github, VS code, IntelliJ,Redux,TypeORM
+🛠️ Ferramentas: Git, Github, VS code, IntelliJ, Redux, TypeORM
 
 
 📝 Estudando atualmente: ReactJs, React-native
